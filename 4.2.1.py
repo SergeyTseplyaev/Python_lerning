@@ -15,3 +15,4 @@ if (column_new == column_old + 1 or column_new == column_old - 1 or column_new =
     print('YES')
 else:
     print('NO')
+
